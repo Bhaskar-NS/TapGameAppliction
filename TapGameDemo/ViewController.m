@@ -65,12 +65,7 @@
         [self.displayNumberOfTaps setHidden:YES];
         [self.result setHidden:NO];
         [self.result setText:@"win"];
-//        if([self.result.text isEqualToString:@"win"])
-//        {
-//            self.textInputValue.enabled=NO;
-//            [self.result setHidden:YES];
-//            [self.displayNumberOfTaps setHidden:YES];
-//        }
+
         
         
     }
